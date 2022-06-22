@@ -31,7 +31,7 @@ public class PassOne {
 			one.parseFile();
 		}
 		catch (Exception e) {
-			System.out.println("Error: "+e);  // 
+			System.out.println("Error: "+e); 
 		}
 	}
 	public void parseFile() throws Exception
